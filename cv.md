@@ -1,5 +1,5 @@
 # **Yuliya Holadava**
-#### Position
+#### Junior Frontend Developer
 
 ### **Get in touch**
 **Phone:** +48575783698  
