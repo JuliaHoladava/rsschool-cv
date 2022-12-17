@@ -1,9 +1,30 @@
-html, body {
-    font-family: Arial, serif;
-    font-size: 16 px;
+body {
+    font-family: Roboto, sans-serif;
+    font-size: 18 px;
     margin: 0;
     padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
+* {
+    box-sizing: border-box;
+}
+.header {
+    border: 1px solid purple;
+}
+.main {
+    border: 1px solid purple;
+}
+.footer {
+    border: 1px solid purple;
+}
+.conteiner {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
 table {
     border-collapse: collapse;
 }
