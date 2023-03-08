@@ -21,6 +21,10 @@ body {
     max-width: 1280px;
     margin: 0 auto;
 }
+a {
+    text-decoration: none;
+    color: #3c5abc;
+}
 .main {
     display: flex;
     width: 100%;
@@ -81,9 +85,14 @@ h3 {
     color: #ffffff;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 30px;
+    font-weight: 200;
 }
 .rectangle {
     height: 125px;
+}
+.courses {
+    width: 200px;
+    height: 100px;
 }
 @media (max-width: 768px) {
     .section {
